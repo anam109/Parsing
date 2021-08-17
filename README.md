@@ -3,13 +3,13 @@ Top Down and Bottom Up Parsing
 
 This is really good implementation of Parser.We know intuitively how these parsers work, but need to specify some things precisely. Shift operations merely push the indicated state on the stack. A reduce operation has two parts.
 
-Shiloh Ruggiere - Coder at http://egoseoservices.com
+Anam Azam Khan - Coder at http://egoseoservices.com
 
  # include <iostream.h>
  # include   <string.h>
  # include    <conio.h>
 
- staticchar Stack[50][10]={NULL};
+ staticchar Stack[50][10]={NULL}; 
  staticint top=-1;
  staticint cit=0;
 
