@@ -1,7 +1,7 @@
 Top Down and Bottom Up Parsing
 =======
 
-This is really good implementation of Parser.We know intuitively how these parsers work, but need to specify some things precisely. Shift operations merely push the indicated state on the stack. A reduce operation has two parts.
+This is really good implementation of Parser. We know intuitively how these parsers work, but need to specify some things precisely. Shift operations merely push the indicated state on the stack. A reduce operation has two parts.
 
 Anam Azam Khan - Coder at http://egoseoservices.com
 
